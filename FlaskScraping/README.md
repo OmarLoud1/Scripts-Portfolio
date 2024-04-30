@@ -8,8 +8,8 @@
 
 1. Clone the repo and navigate to the project directory.
 2. Install dependencies: `pip install flask nltk matplotlib wordcloud`.
-3. Download NLTK data by running `python -m nltk.downloader all`.
-4. Run the Flask app: `python app.py`.
+3. Download NLTK data by running `python3 -m nltk.downloader all`.
+4. Run the Flask app: `python3 app.py`.
 5. Visit `http://localhost:5000` in your browser.
 6. Enter text data in the form and submit to see text analysis results.
 
